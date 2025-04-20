@@ -1,1 +1,6 @@
+My first terraform script. 
+
+- Pull docker image file
+- Run docker container
+- Run NginX server inside container
 
